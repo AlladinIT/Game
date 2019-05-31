@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Ranga&display=swap');        
+h1, h2, h3, h4, h5, h6 {
+    color: red; text-transform: capitalize;
+    font-family: "Times New Roman", Times, serif;
+}
+q {font-family: 'Ranga', cursive;
+}
+        
+
+article {width:75%;margin: 0 auto;}
+body{
+    background-image: url("https://cdn.freelance.ru/img/portfolio/pics/00/2B/64/2843833.jpg");
+    background-size: 650px 320px;}
+}
+
+.text *{background-color:white}
+
+        
+        
+        
+        
